@@ -539,7 +539,7 @@ body {
 
     height: 420px;
 
-    object-fit: cover;
+    object-fit: 100%;
 
     border-radius: 12px;
 }
